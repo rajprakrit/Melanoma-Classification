@@ -53,7 +53,7 @@ Download the Model files from the links provided below in the appropriate locati
 
 ### Download repository
 ```
-$ git clone https://github.com/TheLethargicOwl/Melanoma-Skin-Lesion-Classification
+$ git clone https://github.com/rajprakrit/Melanoma-Classification.git
 ```
 
 After adding the models, run the following command:
