@@ -46,9 +46,9 @@ Streamlit
 
 
 ### 
-Download the Model files from the links provided below in the appropriate locations.
+Download the Model files from the links provided below and upload the whole folder in this repo.
 
-1. <a href="https://drive.google.com/file/d/19iWTnell-KeZaAjnJ3xd2bpGHA7c8M1_/view?usp=sharing">Model</a>
+1. <a href="https://drive.google.com/drive/folders/1lh_j0ZSO6iwKmp9gS1f6WYv_BcsPKoNZ?usp=sharing">Model</a>
 
 
 ### Download repository
@@ -56,13 +56,7 @@ Download the Model files from the links provided below in the appropriate locati
 $ git clone https://github.com/rajprakrit/Melanoma-Classification.git
 ```
 
-After adding the models, run the following command:
-
-1. Installing all the pre-requisite libraries.
-```bash
-pip install -r requirements.txt
-```
-2. Executing model using streamlit script
+After adding the models, and all pre-requisites are met, run the application deployed using streamlit(shown in demo)
 ```
 streamlit run app.py
 ```
